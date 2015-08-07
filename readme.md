@@ -1,11 +1,6 @@
 forever start --minUptime 1000 --spinSleepTime 1000 SERVER.js
 
-"start": "nodemon ./bin/www"
-nodemon start
 
-nodemon bin/www
-http://apis.haoservice.com/lifeservice/car/GetSeries
-key:""
-http://www.autohome.com.cn//ashx/AjaxIndexCarFind.ashx
+∆Ù∂Ø√¸¡Ó nodemon bin/www
 
-http://www.autohome.com.cn/ashx/AjaxIndexCarFind.ashx?type=11
+http://server.auto.rocksw.cn/
